@@ -11,5 +11,12 @@ Welcome to the Official Melodate Github repository! This repository contains the
 
 ## About Melodate
 
+## Team Members
+| Name           | Role                 |
+|----------------|----------------------|
+| Member 1       | Lead Developer       |
+| Member 2       | Data Scientist       |
+| Member 3       | UI/UX Designer       |
+
 
 
