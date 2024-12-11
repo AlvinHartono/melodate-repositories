@@ -5,9 +5,11 @@
 Welcome to the Official Melodate Github repository! This repository contains the following repositories:
 
 ### Repositories
-- Mobile App (MD): https://github.com/AlvinHartono/Melodate
-- Cloud Computing :
-- Machine Learning:
+| Team      | Repository Link                                |
+|-----------|------------------------------------------------|
+| MD        | https://github.com/AlvinHartono/Melodate       |
+| CC        |                                                |
+| ML        |                                                |
 
 ## About Melodate
 
