@@ -23,3 +23,6 @@ Melodate is a music preference-based dating application that aims to create a mo
 | Member 1 | Lead Developer |
 | Member 2 | Data Scientist |
 | Member 3 | UI/UX Designer |
+
+## Application Download Link
+https://drive.google.com/file/d/1D7RVn4d_w9ffoCthDtNLCI8UL9dyy4Hi/view?usp=sharing
