@@ -5,20 +5,19 @@
 Welcome to the Official Melodate Github repository! This repository contains the following repositories:
 
 ### Repositories
-| Team      | Repository Link                                |
-|-----------|------------------------------------------------|
-| MD        | https://github.com/AlvinHartono/Melodate       |
-| CC        |                                                |
-| ML        |                                                |
+
+| Team | Repository Link                          |
+| ---- | ---------------------------------------- |
+| MD   | https://github.com/AlvinHartono/Melodate |
+| CC   |                                          |
+| ML   | https://github.com/LukasKrisna/Melodate  |
 
 ## About Melodate
 
 ## Team Members
-| Name           | Role                 |
-|----------------|----------------------|
-| Member 1       | Lead Developer       |
-| Member 2       | Data Scientist       |
-| Member 3       | UI/UX Designer       |
 
-
-
+| Name     | Role           |
+| -------- | -------------- |
+| Member 1 | Lead Developer |
+| Member 2 | Data Scientist |
+| Member 3 | UI/UX Designer |
