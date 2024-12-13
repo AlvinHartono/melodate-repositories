@@ -9,7 +9,7 @@ Welcome to the Official Melodate Github repository! This repository contains the
 | Team | Repository Link                          |
 | ---- | ---------------------------------------- |
 | MD   | https://github.com/AlvinHartono/Melodate |
-| CC   |                                          |
+| CC   | https://github.com/melodate-cloud-computing|
 | ML   | https://github.com/LukasKrisna/Melodate  |
 
 ## About Melodate
