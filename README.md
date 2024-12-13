@@ -14,6 +14,8 @@ Welcome to the Official Melodate Github repository! This repository contains the
 
 ## About Melodate
 
+Melodate is a music preference-based dating application that aims to create a more authentic and personalized matchmaking experience by utilizing users music tastes. By focusing on musical interests rather than superficial qualities, Melodate connects users with potential matches who share similar lifestyle compatibilities and music preferences, enhancing the likelihood of meaningful connections.
+
 ## Team Members
 
 | Name     | Role           |
