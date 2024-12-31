@@ -23,9 +23,14 @@ Melodate is a music preference-based dating application that aims to create a mo
 
 | Name     | Role           |
 | -------- | -------------- |
-| Member 1 | Lead Developer |
-| Member 2 | Data Scientist |
-| Member 3 | UI/UX Designer |
+| Mia | Machine Learning |
+| Vincent Pangdipta | Machine Learning |
+| Lukas Krisna Prastiyan | Machine Learning |
+| Medica Normalika Zakiah | Cloud Computing |
+| Dedy Faradzi | Cloud Computing |
+| Alvin Hartono | Mobile Development |
+| Bryan Nathaniel | Mobile Development |
+
 
 # Official Melodate Repositories
 
